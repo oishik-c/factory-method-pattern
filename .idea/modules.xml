@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Factory-Method.iml" filepath="$PROJECT_DIR$/.idea/Factory-Method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Structural-Patterns/Adapter-Pattern/Adapter-Pattern.iml" filepath="$PROJECT_DIR$/Structural-Patterns/Adapter-Pattern/Adapter-Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Structural-Patterns/Bridge-Pattern/Bridge-Pattern.iml" filepath="$PROJECT_DIR$/Structural-Patterns/Bridge-Pattern/Bridge-Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Structural-Patterns/Composite-Pattern/Composite-Pattern.iml" filepath="$PROJECT_DIR$/Structural-Patterns/Composite-Pattern/Composite-Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Structural-Patterns/Decorator-Pattern/Decorator-Pattern.iml" filepath="$PROJECT_DIR$/Structural-Patterns/Decorator-Pattern/Decorator-Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Structural-Patterns/Facade-Pattern/Facade-Pattern.iml" filepath="$PROJECT_DIR$/Structural-Patterns/Facade-Pattern/Facade-Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Creational-Patterns/Factory-Method/Factory-Method.iml" filepath="$PROJECT_DIR$/Creational-Patterns/Factory-Method/Factory-Method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Structural-Patterns/Flyweight-Pattern/Flyweight-Pattern.iml" filepath="$PROJECT_DIR$/Structural-Patterns/Flyweight-Pattern/Flyweight-Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Structural-Patterns/Proxy-Pattern/Proxy-Pattern.iml" filepath="$PROJECT_DIR$/Structural-Patterns/Proxy-Pattern/Proxy-Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/sdp.iml" filepath="$PROJECT_DIR$/.idea/sdp.iml" />
     </modules>
   </component>
 </project>
